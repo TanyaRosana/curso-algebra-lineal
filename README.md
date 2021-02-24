@@ -26,21 +26,19 @@ Conoce toda el álgebra lineal de la mano de Juan Gabriel Gomila y María Santos
 Una vez termines el curso podrás seguir con los mejores cursos de análisis de datos, machine learning e inteligencia aritificial publicados por Juan Gabriel Gomila como los cursos de Machine Learning o Inteligencia Artificial con Python o RStudio o el Curso de Data Science con Tidyverse y RStudio o el avanzado de TensorFlow. Todo el material del curso está enfocado en resolver los problemas de falta de base que presentan los estudiantes de esos cursos avanzados y poderlo hacer en un curso a parte te permitirá nivelar tus conocimientos y tomar los otros cursos con garantías de éxito.
 
 ### Temario del curso
+### Tema 0 - Los preliminares del curso
+### Tema 1 - Matrices
+### Tema 2 - Sistemas de Ecuaciones Lineales
+### Tema 3 - Descomposición factorial LU
+### Tema 4 - Determinante
+### Tema 5 - Vectores
+### Tema 6 - Espacios Vectoriales
+### Tema 7 - Aplicaciones Lineales
+### Tema 8 - Diagonalización de Endomorfismos
+### Tema 9 - Programación Lineal
+### Tema 10 - Cadenas de Markovovovov
 
-* Tema 0 - Los preliminares del curso
-* Tema 1 - Matrices
-* Tema 2 - Sistemas de Ecuaciones Lineales
-* Tema 3 - Descomposición factorial LU
-* Tema 4 - Determinantes
-* Tema 5 - Vectores
-* Tema 6 - Espacios Vectoriales
-* Tema 7 - Aplicaciones Lineales
-* Tema 8 - Diagonalización de Endomorfismos
-* Tema 9 - Programación Lineal
-* Tema 10 - Cadenas de Markov
-
-
-### El itinerario definitivo para convertirte en un experto en ML e IA
+El itinerario definitivo para convertirte en un experto en ML e IA
 
 Complementa este curso con el resto del itinerario específico que tienes disponible en la web de [Frogames]** (https://frogames.es/rutas-de-aprendizaje)**
 
